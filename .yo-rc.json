@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.apiintegration"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "apiintegration",
+    "packageName": "com.apiintegration",
+    "packageFolder": "com/apiintegration",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NWEyNjcyZDhlZTZiNTY5MWYzNjAzYmI0ZTRlMDk0OTI0Mjg1MmNhYWRiZGU4YTdjODA5MmNmMGJkZjA4MDc5MjBkZTEzZDMzNGM5ZjkwMTFmOTk2NzYwZTU0MDY0ZDQwNTVlYTE2NWQ0Nzg1ZjVkMmZiOWE2MDFiMTcyZGQ3ODk=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
